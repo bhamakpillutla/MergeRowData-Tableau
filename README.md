@@ -1,2 +1,2 @@
 # MergeRowsTableau
-This is a sample tableau workbook for combing rows with similar data in Tableau
+This is a sample tableau workbook with data integrated in it to combine rows with similar column data
