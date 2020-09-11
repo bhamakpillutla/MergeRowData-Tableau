@@ -4,4 +4,4 @@ Check out my Medium handle for the steps and results.
 ## Dataset
 ![Alt Text](https://github.com/bhamakpillutla/MergeRowData-Tableau/blob/master/Dataset-Outputs/data.JPG)
 ## Output Format
-![Alt Text](https://github.com/bhamakpillutla/MergeRowData-Tableau/blob/master/Dataset-Outputs/data.JPG)
+![Alt Text](https://github.com/bhamakpillutla/MergeRowData-Tableau/blob/master/Dataset-Outputs/Output.JPG)
